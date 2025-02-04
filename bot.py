@@ -5,8 +5,8 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 from tempfile import NamedTemporaryFile
 
 # استبدل هذه القيم بمفاتيح API الخاصة بك
-TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')  # سيتم تعيينها في Heroku
-VIRUSTOTAL_API_KEY = os.environ.get('VIRUSTOTAL_API_KEY')  # سيتم تعيينها في Heroku
+TELEGRAM_BOT_TOKEN = os.environ.get('7463590385:AAFP2PrMr48TdUPfeLb9NUPETT4mDzWstOQ')  # سيتم تعيينها في Heroku
+VIRUSTOTAL_API_KEY = os.environ.get('f01e9e5ecbf63c2c32ccf03a9a0b9447e613a83d51fc67e4bbc30e0fc248b3a2')  # سيتم تعيينها في Heroku
 
 def start(update: Update, context: CallbackContext):
     # إرسال رسالة ترحيب عند استخدام الأمر /start
