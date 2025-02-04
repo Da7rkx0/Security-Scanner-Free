@@ -85,8 +85,8 @@ Make sure you have a valid VirusTotal API key and sufficient API credits for sca
 
 1. قم بنسخ المستودع:
    ```bash
-   git clone https://github.com/Da7rkx0/SecurityScanner.git
-   cd SecurityScanner
+   https://github.com/Da7rkx0/Security-Scanner-Free.git
+   cd Security-Scanner-Free
    ```
 
 2. قم بتثبيت المتطلبات:
